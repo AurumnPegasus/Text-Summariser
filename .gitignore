@@ -1,0 +1,11 @@
+/venv/
+venv/
+/train
+train/
+/train/
+valid/
+/valid/
+/valid
+archive.zip
+/.ipynb_checkpoints
+.ipynb_checkpoints/s
