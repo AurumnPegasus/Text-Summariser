@@ -7,5 +7,6 @@ RuleBased/valid/
 RuleBased/valid/
 RuleBased/valid
 RuleBased/archive.zip
+RuleBased/__pycache__
 /.ipynb_checkpoints
 .ipynb_checkpoints/s
