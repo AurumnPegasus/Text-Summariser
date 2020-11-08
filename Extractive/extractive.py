@@ -65,10 +65,24 @@ for j in range(len(cleaned_sentences)):
     sentence_score = 0
     for i in range(len(stemmed_words_array)):
         sentence_score = sentence_score + dtm[i][j]
+    sentence_score = sentence_score/len(cleaned_sentences[j])
     sentence_scores.append(sentence_score)
 
 sentence_index = sorted(range(len(sentence_scores)), key=lambda k: sentence_scores[k])
 
-for i in reversed(range(len(sentence_index))):
+count = int(len(sentence_index)*0.3)
+check = 0
+
+sentence_index = sentence_index[(len(sentence_index)-count):]
+sentence_index.sort()
+
+for i in range(len(sentence_index)):
     with open("output.txt", "a", encoding="utf8") as text_file:
         print(sentences[sentence_index[i]], file=text_file)
+
+# for i in reversed(range(len(sentence_index))):
+#     check = check + 1
+#     with open("output.txt", "a", encoding="utf8") as text_file:
+#         print(sentences[sentence_index[i]], file=text_file)
+#     if check == count:
+#         break
