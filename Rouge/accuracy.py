@@ -1,79 +1,56 @@
-from rouge import Rouge
-from pprint import pprint
-with open('./Gold_Standards/demo_goldstandard.txt', 'r', encoding="utf-8") as f:
-    tgoldstandard = f.readlines()
-with open('./Outputs/demo_output.txt', 'r', encoding="utf-8") as f:
-    toutput = f.readlines()
+def rouge_1(gold, hypothesis):
 
-goldstandard = []
-output = []
-
-for i in range(0, len(tgoldstandard)):
-    goldstandard.append(tgoldstandard[i].rstrip())
-for i in range(0, len(toutput)):
-    output.append(toutput[i].rstrip())
-
-    total_words_output = 0
-    total_words_goldstandard = 0
-    output_words = []
-    goldstandard_words = []
-
-    for tsentence in output:
-        sentence = list(tsentence.split(" "))
+    # for sentence in gold:
+    number_gold_words = 0
+    gold_words = []
+    number_hypothesis_words = 0
+    hypothesis_words = []
+    for temp_sentence in gold:
+        sentence = temp_sentence.split()
         for word in sentence:
-            output_words.append(word)
-            total_words_output += 1
-    for tsentence in goldstandard:
-        sentence = list(tsentence.split(" "))
+            if word != "।":
+                number_gold_words += 1
+                gold_words.append(word)
+    for temp_sentence in hypothesis:
+        sentence = temp_sentence.split()
         for word in sentence:
-            total_words_goldstandard += 1
-            goldstandard_words.append(word)
-
-def rouge_1():
-    
-    bool_goldstandard = [False for x in range(0, total_words_goldstandard)]
-    matchingwords = []
-    matchedwords = 0
-
-    for i in range(0, total_words_goldstandard):
-        if(bool_goldstandard[i] == True):
-            continue
-        for j in range(0, total_words_output):
-            if (bool_goldstandard[i] == False and goldstandard_words[i] == output_words[j]):
-                matchedwords += 1
-                matchingwords.append(goldstandard_words[i])
-                bool_goldstandard[i] + True
+            if word != "।":
+                number_hypothesis_words += 1
+                hypothesis_words.append(word)
+    vis_gold_words = [False for i in range(0, number_gold_words)]
+    commonwords = []
+    number_common_words = 0
+    for i in range(0, number_gold_words):
+        for j in range(0, number_hypothesis_words):
+            if (hypothesis_words[j] == gold_words[i] and vis_gold_words[i] == False):
+                commonwords.append(hypothesis_words[j])
+                number_common_words += 1
                 break
-            
-    print("The accuracy for ROUGE-1 is " + str(matchedwords/total_words_output))
-    # print(matchingwords)
+    
+    accuracy = number_common_words/number_hypothesis_words
+    print('The accuracy for Rouge_1 for this article is ' + str(accuracy))
+    return accuracy
 
-def rouge_L ():
+total_accuracy_extractive = 0
 
-    longest_common_string = ""
-    matched_string = ""
+g_path = "../Summaries/Gold/"
+h_path = "../Summaries/Extractive/"
 
-    for i in range(0, total_words_goldstandard):
-        for j in range(0, total_words_output):
-            flag = False
-            if (goldstandard_words[i] == output_words[j]):
-                matched_string += goldstandard_words[i]
-                if len(matched_string) >= len(longest_common_string):
-                    longest_common_string = matched_string
+for i in range(2, 6):
+    gold_path = g_path + str(i) + ".txt"
+    hypothesis_path = h_path + str(i) + ".txt"
+
+    with open(gold_path, 'r', encoding='utf-8') as f:
+        g1 = f.readlines()
+    with open(hypothesis_path, 'r', encoding='utf-8') as f:
+        e1 = f.readlines()
+    total_accuracy_extractive += rouge_1(g1, e1)
+
+final_accuracy = total_accuracy_extractive/4
+
+print("The accuracy for the extractive method is " + str(final_accuracy))
+    
 
 
-rouge_1()    
 
-hypothesis = ""
-reference = ""
 
-for i in range(0, len(goldstandard)):
-    reference += goldstandard[i]
-# print(reference)
-for i in range(0, len(output)):
-    hypothesis += output[i]
-# print(hypothesis)
-
-rouge = Rouge()
-scores = rouge.get_scores(hypothesis, reference)
-pprint(scores)
