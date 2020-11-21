@@ -38,7 +38,7 @@ def rouge_1(gold, hypothesis):
     # print(commonwords)
     # print(hypothesis_words)
     # print(number_hypothesis_words)
-    print('The accuracy for Rouge_1 for this article is ' + str(accuracy))
+    # print('The accuracy for Rouge_1 for this article is ' + str(accuracy))
 
     return accuracy
 
@@ -49,7 +49,8 @@ g_path = "../Summaries/Gold/"
 h_path = "../Summaries/Extractive/"
 r_path = "../Summaries/RuleBased/"
 
-for i in range(2, 6):
+counter = 0
+for i in range(1, 8):
 
     gold_path = g_path + str(i) + ".txt"
     hypothesis_path = h_path + str(i) + ".txt"
@@ -62,12 +63,12 @@ for i in range(2, 6):
     with open(rulebased_path, 'r', encoding='utf-8') as f:
         r1 = f.readlines()
     
-
+    counter += 1
     total_accuracy_extractive += rouge_1(g1, e1)
     total_accuracy_rulebased += rouge_1(g1, r1)
-
-final_accuracy_extractive = total_accuracy_extractive/4
-final_accuracy_rulebased = total_accuracy_rulebased/4
+    
+final_accuracy_extractive = total_accuracy_extractive/counter
+final_accuracy_rulebased = total_accuracy_rulebased/counter
 
 print("\nThe accuracy for the extractive method is " + str(final_accuracy_extractive))
 print("\nThe accuracy for the rule based method is " + str(final_accuracy_rulebased))
