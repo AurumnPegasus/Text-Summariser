@@ -1,0 +1,2 @@
+लुआ त्रुटि Module:Location_map में पंक्ति 389 पर: Minutes can only be provided with DMS degrees for longitude।
+विल्लाकादिमा का गिरजाघर एक गिरजाघर है जो कान्तालोजस, स्पेन में मौजूद है। उसे बिएन दे इंतेरेस कल्चरल की श्रेणी में 1965 में डाल दिया गया था।

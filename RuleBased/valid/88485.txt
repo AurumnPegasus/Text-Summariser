@@ -1,0 +1,43 @@
+001• 002•003•004•005•006•007•008•009•010•011•012•013•014•015•016•017•018•019•020•021•022•023•024•025•026•027•028•029•030•031•032•033•034•035•036•037•038•039•040•041•042•043•044•045•046•047•048•049•050•051•052•053•054•055
+यह पृष्ठ विकिपीडिया चौपाल की वार्ताओं का पुरालेख पृष्ठ है। नवीनतम वार्ताओं के लिए देखें विकिपीडिया:चौपाल।
+मैंने यह एक नया पन्ना बनाया है, जिसको सिंपल इंग्लिश विकिपीडिया से कॉपी किया था। यह पृष्ठ नये लेखकों को एक दिशा देनें के लिये है। नये लेखक जिनको यह समझ न आये कि उनको किस चीज़ के ऊपर लिखना है वे इस पृष्ठ पर जा कर वहां शामिल किये हुए किसी भी लेख को आगे बढ़ा सकते हैं। आशा है कि इससे और स्वयंसेवकों को शुरुआत करने में सहायता मिलेगी। -- Spundun 17:40, 7 Oct 2004 
+इस पेज का नाम अंग्रेज़ी विकिपीडिया के Village Pump का सीधा अनुवाद है। मेरे विचार से हिंदी में हम इसे चौपाल या बैठक के नाम से बना सकते हैँ।oldbasara 11:24, 7 अक्टूबर 2006 
+मैं भारत का निवासी हूं। इंटरनेट की दुनिया मैंने सन 2000 में देखी परंतु यह बहुत मंहगा साधन है,इसलिये यह आम आदमी कि पहुंच से बाहर है। अगर विश्व के कुछ लोग चाहें तो यह मुफ़्त में भी गरीब लोगों को मिल सकता है, जिससे पूरे विश्व में विश्व बन्धुत्व आ सकेगा। अगर यह लेख कोई पढे तो इसको अग्रसारित कर विश्व के उन अमीरों के पास डाल दे, जो अपने पैसे को मात्र अय्याशी मै खर्च करते हैं। हो सकता है कि उनके दिमाग मै बात बैठ जाये और विश्व में कल्यांण हो नमस्कार मेरा पता-
+नाम-मोहन सिंह बिष्ट, ग्राम-क्यारी,पोस्ट-रामनगर,जिला-नैनीताल राज्य-उत्तरांचल,देश-भारतपिन कोड-244715
+कोई हमारे साथ तो जुड़े पर वह मेरे विश्व,देश,राज्य,जिला,गांव व घर तक जुड़े तो बात बने।फ़िर में भी उसके सांथ घर ,गांव,जिला,राज्य,देश व विश्व से जुड़ने को तैयार हूं।Visit:-www.choupal.wordpress.com
+
+Hello,
+The stewards election has started on m:Stewards/elections 2005. Anyone can vote provided that he has a valid account on meta with a link to at least one user page, on a project where the editor is a participant, with at least 3 months participation to the project. Stewards can give sysop right on projects where there are no local bureaucrate. Please vote ! Yann 14:40, 18 May 2005 
+Hi,
+I create a copy of Babel here: विकिपीडिया:बाबेल. Use at will. Yann 10:21, 2 जुलाई 2005 
+
+There’s someone proposing a policy to close some minor, slow-growing, “hopeless” wikipedias on the wikimedia meta-wiki. This proposal is the enemy to the openness of the whole wikipedia community. I come here to inform you to express your opinion there. I think it's OK to use your own language on the talk page. Thank you. --Theodoranian01:24, 28 जुलाई 2005 
+Dear Wikipedians,
+I need your help to look at date formats for your language. I created a large list of formats here. Please take a look and fix any mistakes or add any new formats. This will help interwiki bot to match en:April 1, fr:1 avril, ru:1 апреля, zh:4月1日, and all other sites together.
+What's needed: Look here at every format for your language, fix any mistakes, note any exceptions ' unlike all other years).
+Also, I would like to receive a bot status on your site for my bot User:YurikBot. It will be mostly involved in interwikies.
+Thank you!!!
+You can contact me at en:Yurik )
+Hi. I would like to get my interwiki bot YurikBot marked as a bot in your language. The bot is already operating in almost 50 languages, and it would lower the server load and improve the quality of articles if all interwikies are updated at the same time. You can read more or ask questions here. I always run the latest version of the Pywikipediabot . The request for the bot status is here. Please support. Thank you. --Yurik 03:11, 24 दिसम्बर 2005 
+
+There is a lot of vandlism here and this wikipedia needs a lot of activity. I found there is no AfD, the common.css is empty, the guidelines are very few. Where do we discuss all the changes needed here? The mailing list has no activity since months. The article विकिपीडिया:नया पन्ना कैसे आरम्भ करें redirects to मेरी नयी सदस्यता, which is nothing but spam. This has to be deleted, but i don't know where to list this request, as there is no AfD. 203.98.102.4 16:26, 16 फरवरी 2006 
+We have a discussion about the transcription of ताज महल to hebrew at he wikipedia, and we could benefit from a recorded example of the name. if anyone could upload an example to commons, we would be grateful. Thanks in advance, Felagund, he wiki ambassador.
+"स्टब" और "सबस्टब" अंग्रेज़ी बोली है। मुझे लगता है कि ऐसे अंग्रेज़ी अलफ़ाज़ इस्तमाल करने से लेख समझना थोड़ा मुशकिल हो जाता है। हम इनके लिए ज़रूर कोइ हिन्दी शब्द इज़ाद कर सकते हैं! 
+अगर मै अपनी राय पेश करूं तो हम "स्टब" के बदले मे "पौधा" और"सबस्टब" के बदले मे "बीज" इस्तमाल कर सकते हैं। येलेख की हालत को साफ़-शफ़ाफ़ बेयान करते हैं, और विकी-कल्पना को भी पेश करते हैं।नीनॉर्स्क विकीपीडिया पे हमने ऐसे ही कुछ किया।
+ये बस मेरा ख्याल था - अगर आप को पसन्द न आए तो कोई बात नहीं। -- अरविन्द 15:21, 9 जून 2006 
+मेरे ख्याल से मुद्दा यह रहा है कि "स्टब" या "सबस्टब" जैसे शब्द हिन्दी प्रयोक्ताओं के लिये मायने नहीं रखते। पर "अंकुर" या "पौध" जैसे अलंकारित शब्द रखने से भी खास लाभ नहीं होगा क्योंकि नये प्रयोक्ताओं या पाठकों के ये शब्द भी स्टब जितने ही अनजान शब्द होंगे। बेहतर हो यदि सीधा अर्थ समझाने वाले शब्द लिये जायें, जैसे सबस्टब के लिये "अपरिपक्व" और स्टब के लिये "प्रारंभिक" या "आरंभिक" या "आधार"। अगर आप लिखेंगे "यह एक आधार लेख है" या "यह अपरिपक्व लेख है" तो मायने ज्यादा स्पष्ट होंगे।
+देबाशीष की बातो का समर्थन करता हूँ। शब्द सरल होना चाहिए। "अपरिपक्व" शब्द से लग सकता है जो स्टब नही है वे परिपक्व है और योगदान न भी मिले तो ठीक है। तो "आधार लेख" शब्द ज्यादा उपयुक्त होगा। अगर शब्द से ऐसा लगे कि लेख को बढाना चाहिए तो और भी ज्यादा उपयुक्त होगा। मजेदार शब्द "बच्चा लेख" हो सकता था। :) अगर कोई अन्य शब्द नही सुझाया गया तो मेरा मत अभी तक तो "आधार लेख" पर है, मगर ऐसा लगता है और उपयुक्त शब्द हो सकता है।
+Liked a top box on all the pages in Marathi Wikipedia mr:मुखपृष्ठ, giving a link on how to write in Marathi. Its a good idea. Will love to see that in Hindi wikipedia too.सदस्य:Mitul0520 23 Jun 2006 
+मैंने इस पृष्ठ मे कुछ शीर्षक जोड़े हैं. आगे और भी जोड़ूंगा. Lost 11:56, 24 अगस्त 2006 
+विकास मिलजुल-कर करें लेंगें:
+--मात्रा 08:49, 4 अक्टूबर 2006 
+Published by the Wikimania 2007 Taipei Team, Wikimania 2007 Team Bulletin provides the latest news of the Team's organizing work to everyone who is interested in Wikimania; it also gives the Team chances to announce calls for help/participation, so assistance in human and other resources can be sought in a wider range. Team Bulletin is published at the official website of Wikimania 2007 and released to the public domain. Issue 1 and Issue 2 has already published.--218.166.212.246 01:56, 29 अक्टूबर 2006 
+The Hindi Wikipedia is growing nicely and is gaining new users. We need to do everything we can to help them contribute more easily. Sorry for leaving this message in English, I make too many errors and it takes too long for me to write this much in Hindi. 
+नमस्कार,I want to say two things here. Typing is definitely one of the biggest blockers for contributors but I think that enough good options are available now. On my talk page on English wikipedia, when DaGizza invited me to contribute to Hindi Wikipedia, he gave me some links, some of which I like very much. I am reposting part of his message here: 
+I have some sites that convert online ->  . I also have some sites where you can download a simple converter.  Eg. Writing Teraa naam kyaa hai? becomes तेरा नाम क्या है?
+And secondly, I would also support Chaupal चौपाल for Village Pump. धन्यवाद । --अभिषेकपाण्डेय 18:41, 2 नवम्बर 2006 
+A user left a comment at MediaWiki talk:Recentchangestext that international numerals are more useful for a greater number of people. I agree, and since they're derived from Indian numerals anyway, I don't see the harm. Our mission is to provide a useful reference work, not to preserve numerals that aren't as commonly used. - Taxman 20:13, 21 नवम्बर 2006 
+Mahitgar 07:50, 3 जनवरी 2007 
+Plz visit this South Asian Project page for the development of South Asian languages and express yourself there.--युकेश 16:36, 24 नवम्बर 2006 
+मेरे कुछ प्रॉब्लेम होता है । When I search for लद्दाख़ on Google, I get 149 results. But when I search for लद्दाख़ on Google, I get no results at all. What is the difference. I believe that this is a problem with the नुकता . Because when I search for आज़ाद on Google I get 10,100 results. But when I search for अज़ाद on Google I only get 620 results. On BhashaIndia Hindi IME, it only gives the results on Google with the lowest results. I only get more results if I go into Word, Insert->Symbol->Font: Mangal, double-click on ज/क/ख, and then ़. 
+What has happened? Please give your thoughts. --Wolf 10:51, 21 दिसम्बर 2006 

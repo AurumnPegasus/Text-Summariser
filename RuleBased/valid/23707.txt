@@ -1,0 +1,30 @@
+इस लेख में आपरेशनल एम्प्लिफायर के सामान्य उपयोगों की जानकारी दी गयी है। सरलीकृत योजनात्मक आरेख का उपयोग किया गया है।
+Compares two voltages and switches its output to indicate which voltage is larger. 
+
+Uses negative feedback to invert and amplify a voltage .
+Amplifies a voltage 
+The circuit shown is used for finding the difference of two voltages each multiplied by some constant . 
+The name "differential amplifier" should not be confused with the "differentiator", also shown on this page.
+The "instrumentation amplifier", which is also shown on this page, is another form of differential amplifier that also provides high input impedance.
+Whenever   R 1  = R 2   {\displaystyle R_{1}=R_{2}} and   R f  = R g   {\displaystyle R_{\text{f}}=R_{\text{g}}} ,
+When   R 1  = R  f  = R 2  = R  g   {\displaystyle R_{1}=R_{\mathrm {f} }=R_{2}=R_{\mathrm {g} }} :
+Used as a buffer amplifier, to eliminate loading effects or to interface impedances . Due to the strong feedback, this circuittends to get unstable when driving a high capacity load. This can be avoided by connecting the load through aresistor.
+A summing amplifer sums several voltages:
+Integrates the signal over time
+
+Differentiates the signal over time. 
+Combines very high input impedance, high common-mode rejection, low DC offset, and other properties used in making very accurate, low-noise measurements
+A bistable multivibrator implemented as a comparator with hysteresis.
+In this configuration, the hysteresis curve is non-inverting, and the switching thresholds are   ±  R 1  R 2   V sat   {\displaystyle \pm {\frac {R_{1}}{R_{2}}}V_{\text{sat}}} where   V sat   {\displaystyle V_{\text{sat}}} is the greatest output magnitude of the operational amplifier.
+Alternatively, the input and the ground may be swapped. In this configuration, the hysteresis curve is inverting, and the switching thresholds are   ±  R 1   R 1  + R 2    V sat   {\displaystyle \pm {\frac {R_{1}}{R_{1}+R_{2}}}V_{\text{sat}}} . Such a configuration is used in the relaxation oscillator shown below.
+By using an RC network to add slow negative feedback to the inverting Schmitt trigger, a relaxation oscillator is formed. The feedback through the RC network causes the Schmitt trigger output to oscillate in an endless symmetric square wave .
+Simulates an inductor.
+Voltage divider reference
+Creates a resistor having a negative value for any signal generator
+In general, the components   R 1   {\displaystyle R_{1}},   R 2   {\displaystyle R_{2}}, and   R 3   {\displaystyle R_{3}} need not be resistors; they can be any component that can be described with an impedance.
+Produces a pure sine wave.
+Although there are some limitations, this super diode circuit behaves like an ideal diode for the load   R L   {\displaystyle R_{\text{L}}} .
+Note that this implementation does not consider temperature stability and other non-ideal effects.
+where   I S   {\displaystyle I_{\text{S}}} is the saturation current.
+when the voltage is greater than zero, it can be approximated by:
+The output voltage is given by:

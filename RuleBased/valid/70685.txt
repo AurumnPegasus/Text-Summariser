@@ -1,0 +1,20 @@
+रैखिक बीजगणित में क्रैमर-नियम रैखिक समीकरण निकाय का हल निकालने की एक प्रत्यक्ष विधि है। यह विधि गुणांक मैट्रिक्स के डिटरमिनैण्ट तथा गुणांक मैट्रिक्स के एक परिवर्तित रूप के सारणिक के रूप में व्यक्त करती है। यह विधि तभी वैध है जब निकाय का अनन्य हल सम्भव हो। इस नियम का नाम गैब्रिएल क्रैमर ) के नाम पर पड़ा है जिसने 1750 में इसे प्रतिपादित किया था। 
+माना   A x = b  {\displaystyle \mathbf {Ax} =\mathbf {b} } का हल निकालना है जहाँ : 
+   x j  =     det      det     {\displaystyle x_{j}={\cfrac {\det}{\det}}} 
+जहाँ
+माना दो अज्ञात राशि से युक्त दो रैखिक समीकरण ये हैं:
+   {  a  x  + b  y  =  e    c  x  + d  y  =  f      {\displaystyle {\begin{cases}a{\color {blue}x}+b{\color {blue}y}={\color {red}e}\\c{\color {blue}x}+d{\color {blue}y}={\color {red}f}\end{cases}}} 
+इनका मैट्रिक्स निरूपण यह है:
+क्रैमर का नियम लगाकर   x  {\displaystyle x} तथा   y  {\displaystyle y} का मान यह निकलता है:
+इनको मैट्रिक्स रूप में लिखने पर:
+क्रैमर नियम से x और y का मान यह है:
+माना मैट्रिक्स रूप में निरूपित 3x3 रैखिक समीकरण निकाय यह है:
+   {  a  x  + b  y  + c  z  =  j    d  x  + e  y  + f  z  =  k    g  x  + h  y  + i  z  =  l      {\displaystyle {\begin{cases}a{\color {blue}x}+b{\color {blue}y}+c{\color {blue}z}={\color {black}j}\\d{\color {blue}x}+e{\color {blue}y}+f{\color {blue}z}={\color {black}k}\\g{\color {blue}x}+h{\color {blue}y}+i{\color {blue}z}={\color {black}l}\end{cases}}} 
+इसका हल यह है:
+  x  {\displaystyle x},   y  {\displaystyle y},   z  {\displaystyle z} pueden ser encontradas como sigue:
+मैट्रिक्स रूप में लिखने पर:
+       =    {\displaystyle {\begin{bmatrix}3&2&1\\2&0&1\\-1&1&2\end{bmatrix}}{\begin{bmatrix}x\\y\\z\end{bmatrix}}={\begin{bmatrix}1\\2\\4\end{bmatrix}}} 
+  x, y  y  z  {\displaystyle x,y{\text{ y }}z} के मान ये होंगे:
+मैट्रिक्स गुणन के गुण से,
+अतः
+इसलिए:

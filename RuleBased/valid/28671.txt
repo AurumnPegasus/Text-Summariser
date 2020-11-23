@@ -1,0 +1,3 @@
+This template here is a mere data container not to be called directly. It is intended only for indirect use by calling template:पताका प्रतिरूप, template:देश पताका and the like. See Wikipedia:WikiProject Flag Template .
+देश नाम "यूनाइटेड किंगडम" है। 
+Please purge the cache if any testcall doesn't match the current parameter values.

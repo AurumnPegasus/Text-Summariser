@@ -1,0 +1,2 @@
+लुआ त्रुटि Module:Location_map में पंक्ति 389 पर: Minutes can only be provided with DMS degrees for longitude।
+संता मरीआ ला रेआल का गिरजाघर सांगुएसा, स्पेन में मौजूद एक गिरजाघर है। उसे बिएन दे इंतेरेस कल्चरल की श्रेणी में 1889 में शामिल की किया गया था।

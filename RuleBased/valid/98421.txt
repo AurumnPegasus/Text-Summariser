@@ -1,0 +1,10 @@
+
+नीचे गणित के सभी शाखाओं में प्रयोग में आने वाले प्रतीकों की सूची दी गयी है। सभी संकेत एचटीएमएल तथा टेक्स दोनों में ही दिये गये हैं।
+यह सूची अपूर्ण है, इसको पूर्ण करने में मदद करें।
+then 
+ℤ+ or ℤ> means {1, 2, 3, ...} .ℤ≥ means {0, 1, 2, 3, ...} .
+Then = {…, −8, −3, 2, 7, …}.
+ is ambiguous: it could be an ordered pair or an open interval. Set theorists and computer scientists often use angle brackets ⟨ ⟩ instead of parentheses.)
+ is an ordered triple .
+ is the empty tuple .
+ is ambiguous: it could be an ordered pair or an open interval. The notation ]a,b

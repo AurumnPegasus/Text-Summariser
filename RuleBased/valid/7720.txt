@@ -1,0 +1,1 @@
+The most recent items from the archive are transcluded into the news section to avoid the need to update multiple pages. When adding new items, place them at the top of the list, and move the onlyinclude tags so that no more than seven items are transcluded.
