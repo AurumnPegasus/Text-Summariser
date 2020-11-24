@@ -55,13 +55,13 @@ The evaulation was done based on the Rouge method proposed by Chin-Yew Lin. For 
 
 We thank the following for creating the gold standard summaries:
 
-* Abhinav
-* Trisha
-* Yash
-* Eshika
-* Vidushi
-* Shashwat
-* Shubhankar
+* Abhinav Menon
+* Trisha Kaore
+* Yash Agrawal
+* Eshika Khandelwal
+* Vidushi Bhartari
+* Shashwat Singh
+* Shubhankar Kamthankar
 
 ## How to Contribute
 
