@@ -1,0 +1,11 @@
+The Corporate Bodies Authority File or GKD is a German authority control for the organisation of corporation names from catalogues. It is used mainly for documentation in libraries. Like the Subject Headings Authority File and the Name Authority File, the GKD is looked after and updated by the German National Library, the Bavarian State Library, the Berlin State Library and, since 1997, the Austrian National Library, several library networks taking part. The responsible editor is the State Library in Berlin. The Common Corporate File was created in the 1970s from the catalogue data of the Journal Database . In April 2004 it contained more than 915,000 records.
+Since April 2012 GKD, SWD and PND are part of the Integrated Authority File .
+As with the SWD and PND, the "Rules for Alphabetical Cataloguing" are used. They stipulate, amongst other things, what counts as a corporation. These include, inter alia, local authorities and associations such as firms and clubs, but also congresses and exhibitions. 
+In addition to names of individual corporations, GKD data files contain links to parent bodies as well as earlier and later names.
+GKD records are uniquely identified by an ID number, the GKD number. The GKD number consists of digits, the last being a check digit, which can also be 'X' . The number ranges are divided into quotas by library network, so that, for newer records, it can be determined in which network they were created.
+The GKD, like the PND and SWD, is available to information systems in libraries and other areas via the DDB file on a standard CD-ROM or through a Z39.50 interface - but usually only for a fee. For access to authority records, there is a separate Machine Exchange Format for Libraries or MAB GKD. Previously microfiches were used .
+The search for individual corporations enabled by the GKD is part of many catalogues.
+A link to the name authorities of the Library of Congress is provided. A link to Wikipedia is still in the planning stage.
+The example is not given directly in internal PICA+ or MAB format.
+GKD records can refer to one another using "Earlier/later name" and "belonging to" fields. The following example contains an extract:
+

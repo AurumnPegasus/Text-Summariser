@@ -1,0 +1,5 @@
+अतिचालक पदार्थ से बने तार को अतिचालक तार कहते हैं। जब इन्हें ठण्डा करते हुए इनके संक्रमण ताप से नीचे लाया जाता है तो इनका प्रतिरोध शून्य हो जाता है। अतिचालक तारों का उपयोग करके अतिचालक चुम्बक और अन्य युक्तियाँ बनायी जातीं हैं।
+प्रायः अतिचालक तार बनाने के लिए परम्परागत अतिचालक पदार्थों का उपयोग किया जाता है लेकिन अब उच्च-ताप अतिचालकों का भी प्रयोग होने लगा है। अतिचालक तारों से मुख्य लाभ यह है कि बहुत पतले तारों से भी बहुत अधिक विद्युत धारा बहायी जा सकती है तथा इनका प्रतिरोध शून्य होने के कारण इनमें विद्युत ऊर्जा का क्षय नहीं होता। किन्तु अतिचालक तारों को बहुत कम ताप तक ठण्डा करने के लिए अतिरिक्त ऊर्जा लगानी पड़्ती है, यह इनका एक प्रमुख दोष है।
+Cross sections of various 3Sn composite superconducting cables and wires. .
+V3Ga superconducting tape . A vanadium core is covered with 15 µm V3Ga layer, then 20 µm bronze and 15 µm insulating layer. Critical current 180 A, critical current density 20 kA/cm2
+Nb/Cu-7.5at%Sn-0.4at%Ti tape originally developed for an 18.1 T magnet. Nb core: 361×348 packs of 5 µm dia. filaments. Critical current 1700 A, critical current density 20 kA/cm2

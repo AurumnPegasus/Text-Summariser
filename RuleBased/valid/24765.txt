@@ -1,0 +1,9 @@
+CMYK ,जिसे प्रायः प्रॉसेस कलर्स या चतुर्वर्ण भी कहा जाता है), एक व्यकलित वर्ण प्रतिरूप है, जिसे रंगीन मुद्रण, में प्रयोग किया जाता है। 
+CMYK प्रतिरूप कुछ रंगों को श्वेत पृष्ठभूमि पर आंशिक या पूरा छिपा कर, यानि किसी विशिष्ट तरंगदैर्घ्य को सोखकर, कार्य करता है। ऐसे प्रतिरूप को व्यकलित प्रतिरूप कहते हैं, क्योंकि यह स्याही श्वेत में से उज्ज्वलता को घटा देता है।
+
+जो काला क्यान, रानी, पीला प्राथमिक रंग के द्वारा सभी को मिलाने पर बना काला रंग संतोषजनक नहीं होता है। इसलिये मुद्रण में अतिरिक्त काला रंग प्रयोग किया जाता है।
+
+ CIEXYZ · CIELAB · CIECAM02 · CIELUV · Yuv · CIEUVW · CIE RGB 
+ color spaces · sRGB · Adobe · Wide Gamut · ProPhoto · scRGB 
+ YUV · YDbDr · YIQ · YCbCr · YPbPr · xvYCC 
+ LMS · HSL, HSV · CMYK · CcMmYK · Hexachrome · RYB · Munsell · NCS · Pantone · RAL OSA-UCS · Coloroid · RG · PCCS · ISCC-NBS · Imaginary color

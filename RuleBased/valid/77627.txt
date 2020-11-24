@@ -1,0 +1,18 @@
+दाब पात्र ऐसे पात्रों को कहते हैं जिनमें वायुमण्डलीय दाब से अधिक दाब या उससे कम दाब पर कोई गैस या द्रव रखा जाता हो। किसी भी पात्र में वायुमण्डलीय दाब से अधिक या कम दाब होना खतरनाक हो सकता है और इतिहास में कई भयावह दुर्घटनाएँ हो चुकी हैं। इसलिये दाब-पात्रों की डिजाइन, निर्माण एवं परिचालन सम्बन्धित प्रौद्योगिकीविदों द्वारा निर्धारित मानकों के द्वारा नियंत्रित किया जाता है।
+For a sphere, the minimum mass of a pressure vessel is
+where:
+Other shapes besides a sphere have constants larger than 3/2, although some tanks, such as non-spherical wound composite tanks can approach this.
+This is sometimes called a "bullet" for its shape, although in geometric terms it is a capsule.
+For a cylinder with hemispherical ends,
+where
+In a vessel with an aspect ratio of middle cylinder width to radius of 2:1,
+Stress in a shallow-walled pressure vessel in the shape of a sphere is
+where   σ θ   {\displaystyle \sigma _{\theta }} is hoop stress, or stress in the circumferential direction,   σ l o n g   {\displaystyle \sigma _{long}} is stress in the longitudinal direction, p is internal gauge pressure, r is the inner radius of the sphere, and t is thickness of the sphere wall. A vessel can be considered "shallow-walled" if the diameter is at least 10 times greater than the wall depth.
+Stress in a shallow-walled pressure vessel in the shape of a cylinder is
+where:
+Almost all pressure vessel design standards contain variations of these two formulas with additional empirical terms to account for wall thickness tolerances, quality control of welds and in-service corrosion allowances.
+For example, the ASME Boiler and Pressure Vessel Code  formulas are:
+Spherical shells:
+Cylindrical shells:
+where E is the joint efficient, and all others variables as stated above.
+The factor of safety is often included in these formulas as well, in the case of the ASME BPVC this term is included in the material stress value when solving for pressure or thicknes.

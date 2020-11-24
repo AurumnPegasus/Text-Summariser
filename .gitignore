@@ -1,13 +1,5 @@
 /venv/
 venv/
-RuleBased/train
-RuleBased/train/
-RuleBased/train/
-RuleBased/valid/
-RuleBased/valid/
-RuleBased/valid
 RuleBased/archive.zip
-/.ipynb_checkpoints
-.ipynb_checkpoints/
 RuleBased/hin-dep-parser-treebank.zip
 *.zip

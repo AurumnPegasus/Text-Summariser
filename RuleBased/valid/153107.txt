@@ -1,0 +1,23 @@
+डी मॉयवर का प्रमेय या डी मॉयवर का सूत्र समिश्र संख्याओं के घात से सम्बन्धित एक महत्वपूर्ण सूत्र है। इसका प्रतिपादन अब्राहम डी मॉयवर ने किया था।
+इस प्रमेय के अनुसार,
+जहाँ n कोई पूर्णांक है तथा x कोई भी समिश्र संख्या है। 
+इस सूत्र की महत्ता इस बात में है कि यह समिश्र संख्याओं को त्रिकोणमिति से जोड़ता है।'"cos x + i sin x"' को प्रयः '"cis x"' के संक्षिप्त रूप से भी व्यक्त किया जाता है।
+डी मायवर का प्रमेय समिश्र विश्लेषण सम्बन्धी आयलरर के सूत्र से प्राप्त किया जा सकता है 
+तथा चरघातांकी के नियम के अनुसार,
+अत: यूलर के सूत्र के अनुसार,
+यहाँ तीन अवस्थाएं सम्भव हैं : 
+अब, n = k + 1 के लिए व्यंजक लिखने पर :
+We deduce that the result is true for n = k + 1 when it is true for n = k. By the principle of mathematical induction it follows that the result is true for all positive integers n≥1.
+When n = 0 the formula is true since   cos ⁡ + i sin ⁡ = 1 + i 0 = 1  {\displaystyle \cos+i\sin=1+i0=1}, and    z 0  = 1  {\displaystyle z^{0}=1} .
+When n < 0, we consider a positive integer m such that n = −m. So
+Hence, the theorem is true for all integer values of n.
+Being an equality of complex numbers, one necessarily has equality both of the real parts and of the imaginary parts of both members of the equation. If x, and therefore also   cos ⁡ x  {\displaystyle \cos x} and   sin ⁡ x  {\displaystyle \sin x}, are real numbers, then the identity of these parts can be written as
+These equations are in fact even valid for complex values of x, because both sides are holomorphic functions of x, and two such functions that coincide on the real axis necessarily coincide on the whole complex plane. Here are the concretre instances of these equations for   n = 2  {\displaystyle n=2} and   n = 3  {\displaystyle n=3} :
+The right hand side of the formula for   cos ⁡  {\displaystyle \cos} is in fact the value   T n   {\displaystyle T_{n}} of the Chebyshev polynomial   T n   {\displaystyle T_{n}} at   cos ⁡ x .  {\displaystyle \cos x.} 
+डी मॉयवर के सूत्र का जो स्वरूप सबसे उपर वर्णित किया गया है, उससे भी अधिक सामान्य स्थितिके लिये यह सत्य है। वस्तुतः यह सूत्र तब भी सत्य है जब z और w दोनो ही समिश्र संखायें हों। 
+ध्यान दीजिये कि
+अनेक मानों वाला फलन है, जबकि
+नहीं। अतः निम्नलिखित कथन सत्य है:
+डी मॉयवर के सूत्र की सहायता से किसी भी समिश्र संख्या का nवाँ मूल निकाला जा सकता है। यदि   z  {\displaystyle z} एक समिश्र संख्या है तो इसे ध्रुवीय स्वरूप में इस प्रकार से लिख सकते हैं:
+तब 
+जहाँ k एक पूर्णांक है। z के n अलग-अलग मूल प्राप्त करने के लिये k के केवल उन्ही मानों को लिया जाता है जो 0 और के बीच में होते हैं।
