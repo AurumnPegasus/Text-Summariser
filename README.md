@@ -43,6 +43,26 @@ This model generates a summary using modified TF-IDF of the document dataset, wi
 * If you want individual accuracies for any article, you can uncomment line number 63 in the same file.
 * It is advised then to redirect to a new file as `python accuracy.py > output.txt` to enable better formatting.
 
+## Initial Results
+For _Method I_ we got an accuracy of 74.2%
+For _Method II_ we got an accuracy of 80.5%
+
+## Methods of Evaluation
+
+The evaulation was done based on the Rouge method proposed by Chin-Yew Lin. For this project, since the summarization has been extractive, only Rouge-I has been used. To generate the gold standard for the summaries, the annotation was done manually. For any given article, the annotators were asked to pick the most important sentences. The only rule was that the number of sentences they could choose was equal to **0.3N** where **N** was the number of sentences in the initial article. 
+
+## Human Evaluators
+
+We thank the following for creating the gold standard summaries:
+
+* Abhinav
+* Trisha
+* Yash
+* Eshika
+* Vidushi
+* Shashwat
+* Shubhankar
+
 ## How to Contribute
 
 * Fork this repository 
