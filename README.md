@@ -32,7 +32,7 @@ This model generates a summary using modified TF-IDF of the document dataset, wi
 * Now, in the `accuracy.py` file on line number 53, change the code to ```for i in range(1, n+1):``` where n is the same variable as above.
 * For example, if your file was saved as `9.txt` you would change the code to ```for i in range(1, 10):```
 * Run the code as `python accuracy.py`
-* If you want individual accuracies for any article, you can uncomment line number 41 in the same file.
+* If you want individual accuracies for any article, you can uncomment line number 63 in the same file.
 * It is advised then to redirect to a new file as `python accuracy.py > output.txt` to enable better formatting.
 
 ## How to Contribute
