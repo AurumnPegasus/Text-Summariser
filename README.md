@@ -13,6 +13,14 @@ This is a project made by:
 
 ### Extractive
 
+This model generates a summary using a Document Term Matrix and frequency count. To use this
+
+* Go to the ```Extractive``` folder
+* Place your article in ```valid``` folder named as ```article.txt```.
+* Run the ```extractive.py``` file using python3.
+
+* You will end up getting a summary named as ```summary.txt``` inside the ```valid``` folder.
+
 ### Rule Based
 
 This model generates a summary using modified TF-IDF of the document dataset, with weights attached. To use this
