@@ -3,3 +3,4 @@ venv/
 RuleBased/archive.zip
 RuleBased/hin-dep-parser-treebank.zip
 *.zip
+Rouge/__pycache__
