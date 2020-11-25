@@ -30,7 +30,7 @@ This model generates a summary using modified TF-IDF of the document dataset, wi
 * Run the code in jupyter notebook
 * Input the name of your file which is within that directory
 
-* You will end up getting a summary + wordcloud as a text file :)
+* You will end up getting a summary + wordcloud in the output folder :)
 
 ### Calculating Accuracy
 
