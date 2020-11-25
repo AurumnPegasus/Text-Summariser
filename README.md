@@ -11,20 +11,21 @@ This is a project made by:
 * Install all dependencies mentioned in ```requirements.txt```
 * Choose which method you would like to use, and depending on that go to appropriate section
 
-### Extractive
+### Method I
 
 This model generates a summary using a Document Term Matrix and frequency count. To use this
 
-* Go to the ```Extractive``` folder
+* Go to the ```method_1``` folder
 * Place your article in ```valid``` folder named as ```article.txt```.
 * Run the ```extractive.py``` file using python3.
 
 * You will end up getting a summary named as ```summary.txt``` inside the ```valid``` folder.
 
-### Rule Based
+### Method II
 
 This model generates a summary using modified TF-IDF of the document dataset, with weights attached. To use this
 
+* Go to the ```method_2``` folder
 * Place your article in ```valid``` folder
 * Run the code in jupyter notebook
 * Input the name of your file which is within that directory
@@ -44,8 +45,8 @@ This model generates a summary using modified TF-IDF of the document dataset, wi
 * It is advised then to redirect to a new file as `python accuracy.py > output.txt` to enable better formatting.
 
 ## Initial Results
-For _Method I_ we got an accuracy of 74.2%
-For _Method II_ we got an accuracy of 80.5%
+For _Method I_ we got an accuracy of 74.1%
+For _Method II_ we got an accuracy of 83.4%
 
 ## Methods of Evaluation
 

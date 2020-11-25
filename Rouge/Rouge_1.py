@@ -53,6 +53,8 @@ def rouge_1(gold, hypothesis):
 # If you want to know the accuracy for the Rouge1 per article uncomment line 62.
 
 
+    
+    
     # print(number_common_words)
     # print(commonwords)
     # print(hypothesis_words)

@@ -7,8 +7,8 @@ total_accuracy_rulebased = 0
 
 # Storing the relative paths to read the text files.
 g_path = "../Summaries/Gold/"
-h_path = "../Summaries/Extractive/"
-r_path = "../Summaries/RuleBased/"
+h_path = "../Summaries/method_1/"
+r_path = "../Summaries/method_2/"
 
 # Calculating the accuracies for all the files.
 counter = 0 # Variable to store number of articles.
@@ -37,6 +37,6 @@ for i in range(1, 8):
 final_accuracy_extractive = total_accuracy_extractive/counter
 final_accuracy_rulebased = total_accuracy_rulebased/counter
 
-print("\nThe accuracy for the extractive method is " + str(final_accuracy_extractive))
-print("\nThe accuracy for the rule based method is " + str(final_accuracy_rulebased))
+print("\nThe accuracy for the method I is " + str(final_accuracy_rulebased))
+print("\nThe accuracy for the method II is " + str(final_accuracy_extractive))
 
